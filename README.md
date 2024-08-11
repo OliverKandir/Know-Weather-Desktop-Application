@@ -1,6 +1,6 @@
 # Know-Weather-Desktop-Application
 This is a .NET WPF project. The project can be opened and viewed uisng
-Visual Studio 2022 with .NET desktop development Worload installed.
+Visual Studio 2022 with .NET desktop development worload installed.
 
 To open and view the project:
 Open \Know Weather Destop Application\WeatherApp.sln
